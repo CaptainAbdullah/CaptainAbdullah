@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </p>
-<h3 align="center" dir="auto">You can check out my tech blogs on <br><br> 
+<h3 align="center" dir="auto">You can check out my blogs on <br><br> 
   <a href="https://abdullahzblogs.blogspot.com/2022/06/introduction-to-topic-it-is-very-common.html">
     <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></h3>
   </a>
