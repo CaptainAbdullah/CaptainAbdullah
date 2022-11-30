@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 <h3 align="center" dir="auto">You can check out my tech blogs on <br><br> 
   <a href="https://abdullahzblogs.blogspot.com/2022/06/introduction-to-topic-it-is-very-common.html">
