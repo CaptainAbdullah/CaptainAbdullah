@@ -5,3 +5,4 @@
   <h3>You can check out my tech blogs on: </h3>
   <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   <h3>Here you can check out my LinkedIn Profile</h3>
+<img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
