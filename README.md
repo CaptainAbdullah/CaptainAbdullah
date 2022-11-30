@@ -16,6 +16,7 @@
 
 <h3 align="center" dir="auto">I'm currently working on <br><br>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
  </h3>
 
 <h3 align="center" dir="auto">You can check out my blogs on <br><br> 
