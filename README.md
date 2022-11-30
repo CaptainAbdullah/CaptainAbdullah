@@ -12,8 +12,10 @@
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
-<h3 align="center" dir="auto">You can check out my tech blogs on <br><br> <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></h3>
-
+<h3 align="center" dir="auto">You can check out my tech blogs on <br><br> 
+  <a href="https://abdullahzblogs.blogspot.com/2022/06/introduction-to-topic-it-is-very-common.html">
+    <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></h3>
+  </a>
 <h3 align="center" dir="auto">Here you can check out my LinkedIn Profile
  <br><br>
   <a href="https://www.linkedin.com/in/captainabdullah">
