@@ -12,8 +12,8 @@
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src"https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
-<h3 align="center" dir="auto">You can check out my tech blogs on</h3>
-<img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<h3 align="center" dir="auto">You can check out my tech blogs on <br> <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></h3>
+
 <h3 align="center" dir="auto">Here you can check out my LinkedIn Profile</h3>
   
   <a href="https://www.linkedin.com/in/captainabdullah">
