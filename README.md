@@ -51,7 +51,15 @@
    
   <h2 align="center" dir="auto"> Here are some of my digital badges</h2>
   <p align="center" dir="auto">
-  <img src="https://user-images.githubusercontent.com/89099266/204870107-93f6c697-7b09-43ad-b9e8-28627387e3a0.png"/>
+  <a href="https://www.credly.com/badges/d2e47d76-7c6e-42ab-87a4-6a055c29c9e8/public_url">
+  <img src="https://user-images.githubusercontent.com/89099266/204880323-26f8d3fc-d56e-41ff-9852-59387f8bd468.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/5f63eb7e-d561-4ee3-838c-1a990d82f116/public_url">
+  <img src="https://user-images.githubusercontent.com/89099266/204878986-95911741-b834-4107-a0ce-52554f13ef15.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/a331ed80-bdf5-4e3e-8852-13e40d9cd486/public_url">
+  <img src="https://user-images.githubusercontent.com/89099266/204879915-6f33187e-c57b-47e0-9456-c2098676b047.png"/>
+  </a>
   </p>
     
   <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
