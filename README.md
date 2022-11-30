@@ -4,14 +4,15 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-<img src = "https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
-<img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src = "https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+<img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+
 </p>
 
 <h3 align="center" dir="auto">I'm currently working on <br><br>
@@ -47,6 +48,15 @@
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   <p>
+   
+  <h2 align="center" dir="auto"> Here are some of my digital badges</h2>
+  <p align="center" dir="auto">
+  <img src="https://user-images.githubusercontent.com/89099266/204870033-26457399-e615-4ee2-b819-5285b87cc597.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/89099266/204870044-1841dfc2-c3dd-4eab-9c40-55f4ae35d238.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/89099266/204870070-9615f731-bd45-4748-9fbf-255667b61633.png"/>
+  <img src="https://user-images.githubusercontent.com/89099266/204870107-93f6c697-7b09-43ad-b9e8-28627387e3a0.png"/>
+  <img src="https://user-images.githubusercontent.com/89099266/204870125-a59b31f0-8985-4026-a8ab-e59348a636c8.png"/>
+  </p>
     
   <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
   <p align="center" dir="auto">
