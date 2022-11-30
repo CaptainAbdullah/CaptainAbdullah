@@ -51,11 +51,7 @@
    
   <h2 align="center" dir="auto"> Here are some of my digital badges</h2>
   <p align="center" dir="auto">
-  <img src="https://user-images.githubusercontent.com/89099266/204870033-26457399-e615-4ee2-b819-5285b87cc597.jpeg"/>
-  <img src="https://user-images.githubusercontent.com/89099266/204870044-1841dfc2-c3dd-4eab-9c40-55f4ae35d238.jpeg"/>
-  <img src="https://user-images.githubusercontent.com/89099266/204870070-9615f731-bd45-4748-9fbf-255667b61633.png"/>
   <img src="https://user-images.githubusercontent.com/89099266/204870107-93f6c697-7b09-43ad-b9e8-28627387e3a0.png"/>
-  <img src="https://user-images.githubusercontent.com/89099266/204870125-a59b31f0-8985-4026-a8ab-e59348a636c8.png"/>
   </p>
     
   <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
