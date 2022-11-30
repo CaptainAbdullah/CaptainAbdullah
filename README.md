@@ -36,3 +36,8 @@
   </a>
 <p>
  
+  <h3 align="center" dir="auto">I use following platforms for self-learning</h3>
+  <p align="center" dir="auto">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  <p>
