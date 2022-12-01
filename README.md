@@ -69,5 +69,9 @@
   <p align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/89099266/204867807-ea91c8f5-7ab0-4810-a083-e692eab5f8cf.gif"/>
   </p>
+  <h1 align="center" dir="auto">This is beautiful!</h1>
+  <p align="center" dir="auto">
+  <img src="https://user-images.githubusercontent.com/89099266/205119340-053ab6b8-35a9-446f-bfc5-eb6a3e8e3540.gif"/>
+  </p>
   
 
