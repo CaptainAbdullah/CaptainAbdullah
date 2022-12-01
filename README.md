@@ -46,8 +46,10 @@
   <h3 align="center" dir="auto">I use following platforms for self-learning</h3>
   <p align="center" dir="auto">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  <a href="https://www.freecodecamp.org/fcca302f6b7-c06f-4a5a-9244-81bf7653f7e9">
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  <p>
+  </a>
+  </p>
    
   <h2 align="center" dir="auto"> Here are some of my digital badges</h2>
   <p align="center" dir="auto">
