@@ -68,6 +68,9 @@
   <a href="https://skillshop.credential.net/7a8a692e-f879-4249-ad3b-cbbc39c420cc">
   <img src="https://user-images.githubusercontent.com/89099266/205103478-7d2c85ce-22dd-4b5b-bca4-e2f4b01b8e0c.png"/>
   </a>
+  <a href="https://www.credly.com/badges/c1928c8f-95c9-476f-93bf-cbed01603be0/public_url">
+  <img src="https://user-images.githubusercontent.com/89099266/212526188-0d5c9369-8fea-4f68-805a-0773ebf9c0c7.png"/>
+  </a>
   </p>
     
   <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
