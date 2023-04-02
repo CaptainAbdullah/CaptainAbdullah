@@ -68,11 +68,10 @@
   <a href="https://skillshop.credential.net/7a8a692e-f879-4249-ad3b-cbbc39c420cc">
   <img src="https://user-images.githubusercontent.com/89099266/205103478-7d2c85ce-22dd-4b5b-bca4-e2f4b01b8e0c.png"/>
   </a>
-  <a href="https://www.credly.com/badges/c1928c8f-95c9-476f-93bf-cbed01603be0/public_url">
-  <img src="https://user-images.githubusercontent.com/89099266/212526188-0d5c9369-8fea-4f68-805a-0773ebf9c0c7.png"/>
+  <a href="https://www.credly.com/badges/ad1f2343-1f40-4cbd-9305-9f483c1f49e1/public_url">
+  <img src="https://user-images.githubusercontent.com/89099266/229358956-f7c8748a-54e3-4e36-b6c6-2c81b7e9ff86.png"/>
   </a>
-  </p>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad1f2343-1f40-4cbd-9305-9f483c1f49e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
   <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
   <p align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/89099266/204867807-ea91c8f5-7ab0-4810-a083-e692eab5f8cf.gif"/>
