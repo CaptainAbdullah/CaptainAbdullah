@@ -27,9 +27,11 @@
 
 </p>
 
-<h3 align="center" dir="auto">Here is the link to courses that I've done or participated in<br><br> 
-  <a href="https://sites.google.com/view/abdullah-courses/home">
+<h3 align="center" dir="auto">Here is the link to Project Snaps that I've done for my clients!<br><br> 
+  <a href="https://www.behance.net/abdullahswe">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   </a>
+</h3>
 <h3 align="center" dir="auto">Here you can check out my Social Profiles
  <br><br>
   <a href="https://www.linkedin.com/in/captainabdullah">
