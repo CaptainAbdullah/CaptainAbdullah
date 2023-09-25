@@ -50,7 +50,7 @@
   </a>
   </h3>
    
-  <h2 align="center" dir="auto">Digital Badges</h2>
+  <h2 align="center" dir="auto">Credly Verified Digital Badges</h2>
   <p align="center" dir="auto">
   <a href="https://www.credly.com/badges/d2e47d76-7c6e-42ab-87a4-6a055c29c9e8/public_url">
   <img src="https://user-images.githubusercontent.com/89099266/204880323-26f8d3fc-d56e-41ff-9852-59387f8bd468.png"/>
@@ -66,7 +66,7 @@
   <img src="https://user-images.githubusercontent.com/89099266/229358956-f7c8748a-54e3-4e36-b6c6-2c81b7e9ff86.png"/>
   </a>
 
-  <h1 align="center" dir="auto">Beauty lies in Peace</h1>
+  <h1 align="center" dir="auto">You Only Live Once!</h1>
   <p align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/89099266/205119340-053ab6b8-35a9-446f-bfc5-eb6a3e8e3540.gif"/>
   </p>
