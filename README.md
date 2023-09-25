@@ -27,12 +27,20 @@
 
 </p>
 
-<h3 align="center" dir="auto">Here is the link to Project Snaps that I've done for my clients!<br><br> 
+<h3 align="center" dir="auto">Link to Project Snaps that I've Done for My Clients!<br><br> 
   <a href="https://www.behance.net/abdullahswe">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 </h3>
-<h3 align="center" dir="auto">Here you can check out my Social Profiles
+
+<h3 align="center" dir="auto">Courses that I've Completed or Participated in!
+  <a href="https://sites.google.com/view/abdullah-seize-the-day/home">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</h3>
+
+
+<h3 align="center" dir="auto">Social Profiles
  <br><br>
   <a href="https://www.linkedin.com/in/captainabdullah">
     <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
@@ -41,24 +49,8 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   </h3>
-  
-  <h3 align = "center" dir="auto">I'm interested in</h3>
-  <p align="center" dir="auto"> 
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<p>
- 
-  <h3 align="center" dir="auto">I use following platforms for self-learning</h3>
-  <p align="center" dir="auto">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  <a href="https://www.freecodecamp.org/fcca302f6b7-c06f-4a5a-9244-81bf7653f7e9">
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  </a>
-  </p>
    
-  <h2 align="center" dir="auto"> Here are some of my digital badges</h2>
+  <h2 align="center" dir="auto">Digital Badges</h2>
   <p align="center" dir="auto">
   <a href="https://www.credly.com/badges/d2e47d76-7c6e-42ab-87a4-6a055c29c9e8/public_url">
   <img src="https://user-images.githubusercontent.com/89099266/204880323-26f8d3fc-d56e-41ff-9852-59387f8bd468.png"/>
@@ -74,11 +66,7 @@
   <img src="https://user-images.githubusercontent.com/89099266/229358956-f7c8748a-54e3-4e36-b6c6-2c81b7e9ff86.png"/>
   </a>
 
-  <h1 align= "center" dir="auto" >Thank You For Visiting me on GitHub</h1>
-  <p align="center" dir="auto">
-  <img src="https://user-images.githubusercontent.com/89099266/204867807-ea91c8f5-7ab0-4810-a083-e692eab5f8cf.gif"/>
-  </p>
-  <h1 align="center" dir="auto">Hey, this is beautiful!</h1>
+  <h1 align="center" dir="auto">Beauty lies in Peace</h1>
   <p align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/89099266/205119340-053ab6b8-35a9-446f-bfc5-eb6a3e8e3540.gif"/>
   </p>
