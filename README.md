@@ -27,9 +27,8 @@
 
 </p>
 
-<h3 align="center" dir="auto">You can check out my blogs on <br><br> 
-  <a href="https://abdullahzblogs.blogspot.com/2022/06/introduction-to-topic-it-is-very-common.html">
-    <img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></h3>
+<h3 align="center" dir="auto">Here is the link to courses that I've done or participated in<br><br> 
+  <a href="https://sites.google.com/view/abdullah-courses/home">
   </a>
 <h3 align="center" dir="auto">Here you can check out my Social Profiles
  <br><br>
