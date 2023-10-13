@@ -71,5 +71,3 @@
   <img src="https://user-images.githubusercontent.com/89099266/205119340-053ab6b8-35a9-446f-bfc5-eb6a3e8e3540.gif"/>
   </p>
   
-
-<img src= "https://learn.microsoft.com/api/achievements/share/en-us/MuhammadAbdullah-4351/K5LP53LB?sharingId=613ACFFC59746059"/>
