@@ -33,7 +33,7 @@
   </a>
 </h3>
 
-<h3 align="center" dir="auto">Link to Courses that I've Completed or Participated in!<br><br>
+<h3 align="center" dir="auto">Courses & Virtual Experiences<br><br>
   <a href="https://sites.google.com/view/abdullah-seize-the-day/home">
     <img src="https://img.shields.io/badge/Google%20Sites-7393B3?style=for-the-badge&logo=google-sites&logoColor=white">
   </a>
