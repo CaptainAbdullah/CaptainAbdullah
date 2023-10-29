@@ -65,10 +65,6 @@
   <a href="https://www.credly.com/badges/ad1f2343-1f40-4cbd-9305-9f483c1f49e1/public_url">
   <img src="https://user-images.githubusercontent.com/89099266/229358956-f7c8748a-54e3-4e36-b6c6-2c81b7e9ff86.png"/>
   </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/MuhammadAbdullah-4351/9NYCZ33U?sharingId=613ACFFC59746059">
-  <img src=""/>
-  </a>
-  
 
   <h1 align="center" dir="auto">You Only Live Once!</h1>
   <p align="center" dir="auto">
